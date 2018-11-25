@@ -29,4 +29,5 @@ Conclusion:
     I started off a bit slow coming up with the solution at first. I definitely should've decided on a language before starting.
     Still mistakes in code are my biggest bottleneck, and making sure I fully understand the questions and don't forget caveats
     is something I need to improve on. Overall the performance was decent for my second leetcode competition (the first was untracked).
-    Need to work on elegantly implementing binary searches with and correctly keep track of the edges cases.
+    Need to work on elegantly implementing binary searches with and correctly keep track of the edges cases. Also, all my solutions
+    were accepted on there first submission, which I'm proud I'm making improvements on complete code.
