@@ -1,0 +1,32 @@
+Performance:
+    - Placement -> 405 / 3194 
+    - Questions -> (X X X _ )
+
+Problems:
+    - (1) Minimum-Increment .medium. (solved)
+        - First question, took too much time to come up with an elegant solution 
+        - End solution was crude, albeit short, which made debugging the greatest challenge
+        - Cleaning up code is extremely important
+
+    - (2) Valid-Stack .medium. (solved)
+        - ended up using python for this, possibly slowed me down for accidental syntax mess ups
+        - solution was easy, again implementation was a pitfall, debugging took the most time out of the solution
+        - also misread questions which wasted time
+    
+    - (3) Most-Stones .HARD. (solved)
+        - ironically this was the fasted start to finish problem
+        - solution was simple because of a previous question I came across which was similar
+        - one bug that took up the most time was accidently adding negative numbers to the total 
+            - check dfs edge case when the return is 0!    
+
+    - (4) Bag of Tokens .medium. (unsolved)
+        - Almost out of time by this question
+        - Solution was easy to come up with, but implementation was a pitfall
+        - need to work on implementing binary searches more quickly
+        - forgot about the starting power as well which made things harder
+
+Conclusion:
+    I started off a bit slow coming up with the solution at first. I definitely should've decided on a language before starting.
+    Still mistakes in code are my biggest bottleneck, and making sure I fully understand the questions and don't forget caveats
+    is something I need to improve on. Overall the performance was decent for my second leetcode competition (the first was untracked).
+    Need to work on elegantly implementing binary searches with and correctly keep track of the edges cases.
