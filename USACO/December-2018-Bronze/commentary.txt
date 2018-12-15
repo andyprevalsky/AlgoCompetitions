@@ -1,0 +1,2 @@
+Took about an hour to complete all the problems. Debugging was the greatest time consumer.
+Would've finished 40 minutes earlier if, when writing code, I was more meticulous.
